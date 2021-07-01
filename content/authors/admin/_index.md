@@ -20,7 +20,7 @@ bio:
 interests:
 - Algorithmic Game Theory
 - Reinforcement Learning
-- Information Retrieval
+- Machine Learning
 
 # Education to show in About widget
 education:
@@ -40,38 +40,31 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '/#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/RevanMacQueen
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: link:www.linkedin.com/in/revanmacqueen
+- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
+  icon_pack: fas
+  link: https://scholar.google.ca/citations?user=ZXXfcCMAAAAJ&hl=en&oi=ao
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: uploads/resume.pdf
+- icon: cv
+  icon_pack: ai
+  link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "revan@ualberta.ca"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
+
+#{{< icon name="download" pack="fas" >}} My CV is available {{< staticref "uploads/resume.pdf" "newtab" >}} here {{< /staticref >}}.
 ---
 
-Hello! I'm a masters student in the [Department of Computing Science](https://www.ualberta.ca/computing-science/index.html) at the [Univeristy of Alberta](https://www.ualberta.ca/index.html) supervised by [James Wright](https://jrwright.info/). Previously, I completed my BSc in Honors Computing Science at the University of Alberta. 
+Hello! I'm a masters student at the [Univeristy of Alberta Department of Computing Science](https://www.ualberta.ca/computing-science/index.html) and [Alberta Machine Intelligence Institute](https://www.amii.ca/) supervised by [James Wright](https://jrwright.info/). Previously, I completed my BSc in Honors Computing Science at the University of Alberta. 
 
-My research focuses on 
-
-
-
-
-{{< icon name="download" pack="fas" >}} A PDF of my CV is available {{< staticref "uploads/static/resume.pdf" "newtab" >}} here {{< /staticref >}}.

@@ -6,6 +6,8 @@ widget: about
 # Activate this widget? true/false
 active: true
 
+font : 'Rose'
+ 
 # This file represents a page section.
 headless: true
 

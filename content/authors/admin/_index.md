@@ -68,4 +68,4 @@ highlight_name: false
 
 Hello! I'm a masters student at the [Univeristy of Alberta Department of Computing Science](https://www.ualberta.ca/computing-science/index.html) and [Alberta Machine Intelligence Institute](https://www.amii.ca/) supervised by [James Wright](https://jrwright.info/). Previously, I completed my BSc in Honors Computing Science at the University of Alberta. 
 
-Broadly, my research interests are algorithmic game theory and reinforcement learning. In particular, I'm interested in algorithms that learn how to interact in strategic settings through self-play and the equilibria systems of learning agents can converge to. 
+Broadly, my research interests are algorithmic game theory and reinforcement learning. In particular, I'm interested in algorithms that learn how to interact in strategic settings through self-play and the equilibria that systems of learning agents can converge to. 
